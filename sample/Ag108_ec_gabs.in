@@ -1,0 +1,110 @@
+108PD    108AG EC DECAY (2.382 M)      1973SI02                  ENSDF    200810
+108PD  H TYP=FUL$AUT=Jean Blachot$CIT=ENSDF$CUT=1-Jul-2008$                     
+108PD  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 91, 135 (2000)$CUT=1-Jun-2000$        
+108PD c  %|e+%|b{++}=2.85 {i20}                                                 
+108PD c  See also {+108}Ag |b{+-} decay (2.382 min)                             
+108PD c  The decay scheme is that proposed by 1973Si02 on the basis of          
+108PD2c  energy fits and extensive |g|g coin studies                            
+108PD cE TI        From I(|g+ce)-imbalance at each level                        
+108PD cG E         From 1973Si02, except for the 434|g. Others: 1971Jo07,       
+108PD2cG 1971Ok01, 1971Si07                                                     
+108PD cG RI        From 1973Si02. Others: 1971Jo07, 1971Ok01, 1971Si07          
+108PD cL $|g|g(|q): 1) (619|g)(434|g)(|q) (1971Ok01,1973Si02),                  
+108PD2cL 2) (880|g)(434|g)(|q) (1973Si02),                                      
+108PD3cL 3) (1007|g)(434|g)(|q) (1971Ok01,1973Si02).                            
+108PD cL           Data from cascade 1) are consistent with the spin            
+108PD4cL sequence J(d,Q)2(Q)0 only for J(1053 level)=0. Data from               
+108PD5cL cascade 2) are consistent with the spin sequence J(d,Q)2(Q)0           
+108PD6cL only for J(1314 level)=0. Data from cascade 3) are consistent with     
+108PD7cL the spin sequence J(d,Q)2(Q)0 only for J(1441 level)=2. Data of        
+108PD8cL 1973Si02 yield |d(1007|g)=+7 {I+9-3}, whereas data of 1971Ok01 yield   
+108PD9cL |d=-0.27. 1973Si02 suggest that the discrepancy may be due to random   
+108PDAcL summing of |g{+|+} radiation contributing to the 1007 peak in the work 
+108PDBcL of 1971Ok01 since these authors used large NaI detectors. We adopt     
+108PDCcL the value from 1973Si02.                                               
+108AG  P 0.0           1+              2.382 M   11             1922      5     
+108PD DN 0.175                 0.0285  2035.09                                  
+108PD  N                                                                        
+108PD2 N IGS=82.5 13
+108PD cN NR$branching from I(|b{+-} to g.s.)+I(633|g)+I(|b{++} to               
+108PD2cN g.s.)(1+|e/|b{++})+ I(434+931+1441+1540|g's)=100 and                   
+108PD3cN I(633|g)/|b{+-}=0.0181 {i10} (1962Fr07), I(|b{++})/I(633|g)=0.160 {i7} 
+108PD4cN (1962Fr07) and |e/|b{++}(g.s.)=7.33 {i22} (theory). The data quoted    
+108PD5cN from 1962Fr07 are not given explicitly by the authors although they    
+108PD6cN are the quantities determined experimentally. The values were deduced  
+108PD7cN by the evaluator from the |b{+-}, |b{++} and |e branchings given by the
+108PDxcN authors.                                                               
+108PD PN                                 1.0                                    
+108PD  L 0.0           0+              STABLE                                   
+108PD  E             0.28    2 2.07    16 4.70   3               2.35     16    
+108PDS E EAV=     398  3$CK=  0.7610 25$CL=  0.0957  4$CM+= 0.02322  8$         
+108PD  L 433.938   5 2+                                                         
+108PD  E               0.0026 3  0.21  2  5.46   4              0.216     20    
+108PDS E EAV=     209  3$CK=  0.8537   $CL= 0.10809   $CM+= 0.02624   $         
+108PD cE           |eK(exp)/|b{++}=5.6 {i10} (1965Fr01), |eK(exp)/|b{++}=6.19   
+108PDxcE (theory)                                                               
+108PD  G 433.96     5 100                                                     X 
+108PD  L 931.07    12  2+                                                       
+108PD  G 497.1      2 0.45   11                                                 
+108PD  G 931.12    20 0.11    1                                               X 
+108PD  L 1052.80   5   0+                                                       
+108PD  E                       0.259   23 4.89   4              0.259     23    
+108PDS E                 CK=  0.8615   $CL= 0.11135   $CM+= 0.02711   $         
+108PD  G 618.86     5 52.4   26                                                 
+108PD  L 1314.20   10  0+                                                       
+108PD  E                       0.0041  5 6.37    6              0.0041    5     
+108PDS E                 CK=  0.8588   $CL= 0.11345   $CM+= 0.02771   $         
+108PD  G 383.2     10 0.18    6                                                 
+108PD  G 880.26    10 0.64    5                                                 
+108PD  L 1441.16   5 2+                                                         
+108PD  E                       0.020   3     5.46 6             0.020     3     
+108PDS E                 CK=  0.8564   $CL= 0.11536 14$CM+= 0.02825  4$         
+108PD  G 388.6      4 0.37   12                                                 
+108PD  G 510.1      2 0.7    LE                                                 
+108PD cG E         from energy level difference                                 
+108PD cG RI        from intensity balance at the 931 level. From the 511        
+108PD2cG peak in coin with the 434|g the authors estimate I(510.1|g)=0.7 {i5}.  
+108PD  G 1007.22    6 2.79   14   (M1+E2) +7     +9-3                           
+108PD cG M         from |g|g(|q) and |D|p=no from decay scheme.                 
+108PD  G 1441.14   10 0.61    4                                               X 
+108PD  L 1539.95   7 (1+,2+)                                                    
+108PD  E                       0.0027  3     6.12 6             0.0027    3     
+108PDS E                 CK=  0.8532   $CL= 0.11781 23$CM+= 0.02894  7$         
+108PD  G 1106.00    7 0.33    3                                                 
+108PD  G 1540.0     2 0.21    2                                               X 
+                                                                                
+108CD    108AG B- DECAY (2.382 M)                                ENSDF    200810
+108CD  H TYP=FUL$AUT=Jean Blachot$CIT=ENSDF$CUT=1-Jul-2008$                     
+108CD  H TYP=FUL$AUT=Jean Blachot$CIT=NDS 91, 135 (2000)$CUT=1-Jun-2000$        
+108CD c  %|b{+-}=97.15 {i20}                                                    
+108CD c  See also {+108}Ag |e decay (2.382 min).                                
+108CD cB IB        From I(|g+ce)-imbalance at each level                        
+108CD cB           1962Fr07 measured |b{+-} branches of 1650 keV and            
+108CD2cB 1018 keV. In addition, 1962Fr07 report the existence of a              
+108CD3cB |b-branch of 177 keV, |?0.02%. Such a branch implies the existence     
+108CD4cB of a level at |?1470. However, as has been shown by 1973Si02, such a   
+108CD5cB level probably does not exist. Other |b{+-} measurements: 1960Wa10,    
+108CD6cB 1956Jo23, 1953Pe16, 1952Go02.                                          
+108CD cG E         E|g is from 1973Si02.                                        
+108CD cG RI        From 1973Si02 relative to I(433|g in {+108}Pd)=100           
+108AG  P 0.0          1+               2.382 M    11             1650      7    
+108CD DN 0.00518   12           0.9715 201.03                                   
+108CD  N                                                                        
+108CD2 N IGS=98.19 10                                                           
+108CD cN NR,BR     from I(|b{+-} to g.s.)+I(633|g)+I(|b{++} to                  
+108CD2cN g.s.)(1+|e/|b{++})+ I(434+931+1441+1540 |g's)=100 and                  
+108CD3cN I(633|g)/|b{+-}=0.0181 {i10} (1962Fr07), I(|b{++})/I(633|g)=0.160 {i7} 
+108CD4cN (1962Fr07) and |e/|b{++}(g.s.)=7.33 {i22} (theory). The data quoted    
+108CD5cN from 1962Fr07 are not given explicitly by the authors although they    
+108CD6cN are the experimentally determined quantities. The values were deduced  
+108CD7cN by the evaluators from the |b{+-}, |b{++}, and |e branchings given by  
+108CDxcN the authors.                                                           
+108CD PN                                 1.0                                    
+108CD  L 0.0          0+               STABLE                                   
+108CD  B     1650   8 95.4    3             4.425 9                             
+108CDS B EAV=     629  4$                                                       
+108CD  L 632.98     5 2+                                                        
+108CD  B     1017   8 1.76   10              5.35 3                             
+108CDS B EAV=     356  4$                                                       
+108CD  G 632.98     5 350    18                                               X 
+                                                                                

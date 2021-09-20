@@ -1,0 +1,128 @@
+ 80SE    80BR EC DECAY (17.68 M)       1969KA06,1967RA12,1970DO0205NDS    200508
+ 80SE  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 105, 223 (2005)$CUT=22-Jun-2005$      
+ 80SE c  1969Ka06: measured |g, |g|g, |b{++}, |b{+-}, |b|g, T{-1/2}             
+ 80SE c  1967Ra12: measured |g, |g|g, |g|g(|q)                                  
+ 80SE c  1970Do02: measured |g                                                  
+ 80SE c  Others:                                                                
+ 80SE c  |g, |g|g: 1962Tr03, 1968Da24, 1956La24, 1953Sc71                       
+ 80SE c  |b{++} data: 1956La24, 1954Li19, 1954La34, 1954La39,                   
+ 80SE2c  1953La36, 1952La20, 1951La08, 1949Dz19                                 
+ 80SE c  |b{++}/|b{+-} ratio: 1950Re51, 1947Ba08                                
+ 80SE c  T{-1/2}({+80}Br isotope): 1972Co26, 1968Re04, 1957Ki21,                
+ 80SE2c  1948Wa13, 1939Se03, 1937Sn02, 1935Am01. 1984Ke14 deals with methodology
+ 80SE3c  of T{-1/2} measurement                                                 
+ 80SE c  Production of {+80}Br (in addition to above references):               
+ 80SE2c  1947Se33, 1936Al01                                                     
+ 80SE cE           Feedings to {+80}Kr g.s. and {+80}Se g.s. determined from    
+ 80SE2cE decay scheme and from I|b{++}/I|b{+-}=0.028 {I2} (1951La08),           
+ 80SE3cE I(|e+|b{++})/I|b{+-}=0.090 {I2} (1950Re51), and                        
+ 80SE4cE I|g(616|g)/I|b{++}=2.58 {I10} (1962Tr03). 1969Ka06 also deduce these   
+ 80SE5cE feedings from I|b{+-}/I|b{++} and I|g(616|g)/I|b{++} ratios but give   
+ 80SExcE no uncertainties.                                                      
+ 80SE cG           {+80}Br decays by |b{+-} and by |e,|b{++}. The following     
+ 80SE2cG experimental ratios aid in normalization of decay schemes:             
+ 80SE3cG I(|e+|b{++})/I|b{+-}=0.090 {I2} (1950Re51, mass spectrometer data);    
+ 80SE4cG I|b{++}/I|b{+-}=0.028 {I2} (1951La08, scin). Others: 0.037 (1951Mi16), 
+ 80SE5cG 0.040 {I5} (1954Li19), 0.031 (1969Ka06);                               
+ 80SE6cG I|g(616|g)/I|b{++}=2.58 {I10} (1962Tr03 scin). Other: 3.0 {I7}         
+ 80SExcG (1953Sc71)                                                             
+ 80SE cG           |g|g data obtained by 1969Ka06 and 1967Ra12 (scin)           
+ 80SE cG E(A)$Reported by 1967Ra12 only. Assignment to {+80}Se uncertain        
+ 80SE cG E(B)$Reported by 1970Do02 only. Assignment to {+80}Se uncertain        
+ 80SE cG E$Weighted average of 1969Ka06, 1967Ra12, 1970Do02                     
+ 80SE cG RI$Average of 1969Ka06 and 1967Ra12. Relative to I|g(616|g in          
+ 80SExcG {+80}Kr)=100                                                           
+ 80SE cL J$From 'adopted levels'                                                
+ 80BR  P  0           1+                17.68 M  2               1870.5   3     
+ 80SE  N                                   1.0                                                        
+ 80SE DN                                 0.145       12                         
+ 80SE2 N IGS=7.1 3
+ 80SE cN NR${+80}Br decays by |b{+-} and by |e,|b{++}. Normalization            
+ 80SE2cN factors have been deduced from the following observations:             
+ 80SE3cN I(|e+|b{++})/I|b{+-}=0.090 {I2} (1950Re51,mag spectrometer             
+ 80SE4cN measurement); I|b{++}/I|b{+-}=0.028 {I2} (1951La08);                   
+ 80SE5cN I|g(616|g)/I|b{++}=2.58 {I10} (1962Tr03). In |e decay |b{++} feeding   
+ 80SExcN to excited levels in {+80}Se is negligible                             
+ 80SE PN                                                                     4  
+ 80SE  G  677.0    10 0.12   4                                              A  ?
+ 80SE  G  687.4    10 0.18   5                                              A  ?
+ 80SE  G 1338.5    8                                                        B  ?
+ 80SE  L  0.0         0+                                                        
+ 80SE  E 1882      6     2.2 2      4.9 2    4.67 5              7.1      2     
+ 80SES E EAV=   368.2 10$CK=  0.6106 16$CL= 0.06983 18$CM+= 0.01367  4$         
+ 80SE cE E$from weighted average of E|b+=868 {I7} (1951La08), 862 {I10}         
+ 80SE2cE (1954Li19), 850 {I7} (1969Ka06)                                        
+ 80SE  L 665.8     2  2+                                                        
+ 80SE  E                        1.1    1     4.94 5              1.1      1     
+ 80SES E EAV=    84.3  9$CK=  0.8778   $CL= 0.10106   $CM+=0.019798   $         
+ 80SE  G 665.8     2  16.1   13                                              CX 
+ 80SE  L 1450         2+                                                       ?
+ 80SE  E                        0.02   LE    5.7  GT              0.02    LE    
+ 80SES E                 CK=  0.8751   $CL= 0.10432   $CM+=0.020527   $         
+ 80SE  G  788      3  0.2    LE                                                ?
+ 80SE  L 1478.0    16 0+                                                        
+ 80SE cL J$from (812|g)(665|g)(|q) (1967Ra12)                                   
+ 80SE  E                        0.05   2     5.3  3              0.05     2     
+ 80SES E                 CK=  0.8747   $CL= 0.10468   $CM+=0.020607   $         
+ 80SE  G  812.2    15 0.6    2                                               C  
+ 80SE cG           (812|g)(665|g)(|q): A{-2}=0.29 {I13}, A{-4}=1.32 {I37}       
+ 80SExcG (1967Ra12)                                                             
+                                                                                 
+ 80KR    80BR B- DECAY (17.68 M)       1969KA06,1967RA12,1970DO0205NDS    200508
+ 80KR  H TYP=FUL$AUT=BALRAJ SINGH$CIT=NDS 105, 223 (2005)$CUT=22-Jun-2005$      
+ 80KR c  1969Ka06: |g, |g|g, |b, |b|g, T{-1/2} data                             
+ 80KR c  1967Ra12: |g, |g|g, |g|g(|q) data                                      
+ 80KR c  1970Do02: |g data                                                      
+ 80KR c  Other measurements:                                                    
+ 80KR c  |g: 1968Da24, 1962Tr03, 1956La24, 1953Sc71                             
+ 80KR c  |b{+-}: 1956La24, 1954La34, 1954La39, 1953La36, 1952La20, 1951La08     
+ 80KR c  T{-1/2}: 1984Ke14 (methodology), 1972Co26, 1968Re04, 1957Ki21,         
+ 80KR2c  1939Se03, 1937Sn02, 1935Am01                                           
+ 80KR d  Analysis of log| {Ift} values (theoretical): 1969Ha48, 1969Ba58        
+ 80KR c  Others (dealing with production of {+80}Br): 1947Se33, 1936Al01        
+ 80KR cB IB$From decay scheme. Feeding to {+80}Kr g.s. calculated from          
+ 80KR2cB I|b{+-}/I|b{++} and I|g(616|g)/I|b{++} ratios                          
+ 80KR cG E$Weighted average of 1970Do02, 1969Ka06, 1967Ra12                     
+ 80KR cG RI$Average of 1969Ka06 and 1967Ra12                                    
+ 80KR cG E(A)$Reported by 1967Ra12 only. Assignment to {+80}Kr uncertain        
+ 80KR cG E(B)$Reported by 1970Do02 only. Assignment to {+80}Kr uncertain        
+ 80KR cL J$From 'adopted levels'                                                
+ 80BR  P  0           1+                17.68 M  2               2003.0   24    
+ 80KR  N                                  1.0
+ 80KR DN                                 0.073        8                         
+ 80KR2 N IGS=85.0 7
+ 80KR cN NR${+80}Br decays by |b{+-} and |e,|b{++}. Normalization               
+ 80KR2cN factors have been deduced from the following observations:             
+ 80KR3cN I(|e+|b{++})/I|b{+-}=0.090 {I2} (1950Re51,mag. Spectrometer            
+ 80KR4cN measurement) I|b{++}/I|b{+-}=0.028 {I2} (1951La08);                    
+ 80KR5cN I|g(616|g)/I|b{++}=2.58 {I10} (1962Tr03). In |e decay, |b{++} feeding  
+ 80KRxcN to excited levels in {+80}Se is |?1%                                   
+ 80KR PN                                                                     4  
+ 80KR  G  677.0    10 0.12   4                                              A  ?
+ 80KR  G  687.4    10 0.18   5                                              A  ?
+ 80KR  G 1338.5    8                                                        B  ?
+ 80KR  L    0.0       0+                                                        
+ 80KR  B 1997      10 85.0   7             5.485  5                             
+ 80KRS B EAV=804.0 11                                                           
+ 80KR cB E$from 1969Ka06. Other 1990 {I10} (1956La24)                           
+ 80KR cB IB$from |b{+-} data, values are: 82.2 (1969Ka06), 85 (1956La24)        
+ 80KR  L  616.6    4  2+                                                        
+ 80KR  B 1380      20  6.2   6             5.98   5                         C   
+ 80KRS B EAV=524.4 11                                                           
+ 80KR cB E$from |b-|g (1969Ka06). Other: 1380 {I80} (1956La24)                  
+ 80KR cB IB$from |b{+-} data, values are: 7.6 (1969Ka06), 15 (1956La24)         
+ 80KR  G  616.3    5  100                                                    CX 
+ 80KR  L 1256.0    4  2+                                                        
+ 80KR  B               0.31  3             6.27   5                             
+ 80KRS B EAV=253.14 98                                                          
+ 80KR  G  639.4    2    3.9  3  E2+M1      +6    1                              
+ 80KR cG MR$from 'adopted gammas'. From A{-2}=-0.12 {I4}, A{-4}=0.38 {I10}      
+ 80KR2cG (1967Ra12) for (639|g)(617|g)(|q), deduced |d|>+8                      
+ 80KR  G 1256.2    4    1.1  1                                                X 
+ 80KR  L 1320.4    4  0+                                                        
+ 80KR cL J$ measurement: (704|g)(617|g)(|q) (1967Ra12)                          
+ 80KR  B                0.19 2             6.34   5                             
+ 80KRS B EAV=227.63 96                                                          
+ 80KR  G  703.8    2    2.9  4  E2                                           C  
+ 80KR cG $ (704|g)(617|g)(|q): A{-2}=0.38 {I6}, A{-4}=1.28 {I18} (1967Ra12)     
+                                                                                

@@ -1,0 +1,24 @@
+  GABS v12 (2-May2019)
+  
+ Sample files distributed with GABS:
+ 
+ 
+ Po205_ec_gabs.in from 205At EC decay: single data set
+    command: gabs -f Po205_ec_gabs.in
+    
+ Nb96_b_gabs.in from 96NB B- decay; single data set
+     command: gabs -f Nb96_b_gabs.in
+     
+ Cf246_a_gabs.in from 246Cf alpha decay;  single data set
+     command: gabs -f Cf246_a_gabs.in
+
+ Lu176_b_gabs.in from 176Lu b- decay; single data set
+     command: gabs -f  Lu176_b_gabs.in
+     
+ 
+ Ir192_ec_gabs.in 192Ir EC decay; multiple data sets
+     command: gabs -f  Ir192_ec_gabs.in
+     
+ Ag108_ec_gabs.in from 108Ag EC and b- decay; multiple data sets
+     command: gabs -f Ag108_ec_gabs.in
+ 

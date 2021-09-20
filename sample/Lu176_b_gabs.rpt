@@ -1,0 +1,17 @@
+  * * * * * * GABS Version 12 [02-May-2019] Report file  * * * * * * 
+  Current date: 13:49:41 02-May-2019
+  ENSDF input file: Lu176_b_gabs.in
+  Calculating new normalization factor * * * * *
+  New ENSDF file:   Lu176_b_gabs.new
+ 
+  Data set: 176LU B- DECAY
+  Transitions used for normalization:
+    176HF  G      88.34 3    15.5 6 E2                     5.77    8              X
+    176HF  G     201.83 3   83.3 22 E2                     0.279   4              X
+    176HF  G     306.78 4     100   E2                     0.0741 11              X
+ 
+  Normalization: 176LU B- DECAY  NR= 0.941 15  BR= 1.000 
+  E=88.34(3)         %IG=14.58 (13)    Compare with %IG=14.6(6)
+  E=201.83(3)        %IG=78.4 (6)      Compare with %IG=78.4(24)
+  E=306.78(4)        %IG=94.1 (5)      Compare with %IG=94.1(15)
+  E=400.99(4)        %IG=4.55 (7)

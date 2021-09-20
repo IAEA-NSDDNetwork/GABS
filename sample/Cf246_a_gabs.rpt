@@ -1,0 +1,14 @@
+  * * * * * * GABS Version 12 [02-May-2019] Report file  * * * * * * 
+  Current date: 13:46:49 02-May-2019
+  ENSDF input file: Cf246_a_gabs.in
+  Calculating new normalization factor * * * * *
+  New ENSDF file:   Cf246_a_gabs.new
+ 
+  Data set: 246CF A DECAY
+  Transitions used for normalization:
+    242CM  G 42        3  0.014     E2                     1.2E+3 5               X
+ 
+  Normalization: 246CF A DECAY  NR= 1.2 5  BR= 1.000 
+  E=42(3)            %IG=0.017 (7)     Compare with %IG=0.017(7)
+  E=96(3)            %IG=0.015 (6)
+  E=147(5)           %IG=0.0043 (18)

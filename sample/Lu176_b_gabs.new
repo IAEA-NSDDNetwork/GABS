@@ -1,0 +1,55 @@
+176HF    176LU B- DECAY                1990GE05,1975AR11,1992DA0306NDS    200602
+176HF  H TYP=FUL$AUT=M.S. BASUNIA$CIT=NDS 107, 791 (2006)$CUT=15-Sep-2005$
+176HF C  Others: 1954Ar03, 1954Di18, 1971Be10
+176HF CG E         From adopted levels.
+176HF CG RI$From 1990Ge05, unless otherwise specified.
+176HF CG M         From adopted gammas.
+176HF CL J         From adopted levels.
+176HF CL E         Deduced by evaluator from a least-squares fit to E|g.
+176HF CB LOGFT     K forbidden |b-decay from K|p=7- g.s. rotational band
+176HF2CB ({+176}Lu) to K|p=0+ g.s. rotational band({+176}Hf).
+176HF DG CC$FROM BrIcc v2.3c (03-Jan-2019) 2008Ki07, "Frozen Orbitals" appr.
+176LU  P 0.0                 7-        3.76E10 Y 7              1190.2    8
+176HF DN  0.936    17          1.0       1.0
+176HF  N  0.941    15          1.0       1.0                                   C
+176HF CN NR        From decay scheme and I(|g+ce)(88|g)=I(|g+ce)(202|g)=I(|g+ce)
+176HFXCN \(307|g)=100%.
+176HF PN                                                                     3
+176HF  L        0.0  0+
+176HF  L 88.34      3 2+
+176HF  G      88.34 3    15.5 6 E2                     5.77    8
+176HF2 G  %IG=14.58 13
+176HFS G  KC=1.179 17$LC=3.49 5$MC=0.873 13
+176HFS G  NC=0.202 3$OC=0.0255 4$PC=7.87E-5 11
+176HF CG E$weighted average of 88.35 keV {I5} (1975Ar11) and 88.37 keV {I7}
+176HFXCG (1992Da03).
+176HF  L 290.17     5 4+
+176HF  G     201.83 3   83.3 22 E2                     0.279   4
+176HF2 G  %IG=78.4 6
+176HFS G  KC=0.1630 23$LC=0.0883 13$MC=0.0217 3
+176HFS G  NC=0.00504 7$OC=0.000662 10$PC=1.071E-5 15
+176HF CG E$weighted average of 201.82 keV {I5} (1975Ar11) and 201.84 keV {I8}
+176HFXCG (1992Da03).
+176HF  L 596.95     6 6+
+176HF  B               99.61  4           19.169  9
+176HFS B EAV=182.32 29
+176HF CB E         E|b=565 keV {I25} |b|g coin (1969Pr11). Others: 1939Li13,
+176HF3CB 1947Fl07, 1953Ar03, 1954Di18.
+176HF  G     306.78 4     100   E2                     0.0741 11
+176HF2 G  %IG=94.1 5
+176HFS G  KC=0.0517 8$LC=0.01717 24$MC=0.00413 6
+176HFS G  NC=0.000965 14$OC=0.0001316 19$PC=3.71E-6 6
+176HF CG E$weighted average of 306.88 keV {I5} (1975Ar11) and 306.79 keV {I5}
+176HFXCG (1992Da03).
+176HF  L 997.94     7 8+
+176HF  B               0.39   4            19.98  5
+176HFS B EAV=52.03 25
+176HF  G     400.99 4    0.40 4 E2                     0.0345   5
+176HF2 G  %IG=4.55 7
+176HFS G  KC=0.0257 4$LC=0.00673 10$MC=0.001595 23
+176HFS G  NC=0.000374 6$OC=5.24E-5 8$PC=1.92E-6 3
+176HF CG E$weighted average of 401.4 keV {I5} (1975Ar11), 401.1 keV {I2}
+176HF2CG (1973Ko22), and 401.0 keV {I5} (1992Da03).
+176HF CG RI$weighted average of 0.32 {I3} (1973Ko22), 0.365 {I22} (1983Sa44),
+176HF2CG and 0.48 {I3} (1992Da03). Other value: 0.9 {I2} (1975Ar11).
+

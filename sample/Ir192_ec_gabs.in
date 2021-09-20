@@ -1,0 +1,641 @@
+192OS    192IR EC DECAY (73.829 D)                               12NDS    201209
+192OS  H TYP=FUL$AUT=Coral M. Baglin$CIT=NDS 113, 1871 (2012)$CUT=15-Jun-2012$  
+192OS DG CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+192OS c  This decay has been evaluated independently by                         
+192OS2c  E. Browne (1999BeZQ, 1999BeZS).                                        
+192OS c  See {+192}Ir Adopted Levels for the evaluated half-life of {+192}Ir.   
+192OS c  The total average radiation energy released by {+192}Ir |e decay is    
+192OS2c  49.5 keV {I3} (calculated by evaluator using the computer program      
+192OS3c  RADLST); this agrees well with Q~xBR=49.9 keV {I4} and thus            
+192OS4c  confirms the completeness of the decay scheme.                         
+192OS c  The level scheme is from 1988Li06.                                     
+192OS cE           A reported |b{++} group (E|b=240 keV {I10},                  
+192OS2cE %|b{++}=1.5|*10{+-5} (1960An04)) is not consistent with Q(|e)=1046.3   
+192OSxcE (2011AuZZ).                                                            
+192OS cG           Principal sources of |g energy and intensity data:           
+192OS2cG 1966Sc20, 1969LeZU, 1973Ge05, 1975Bo07, 1975Pr03, 1983Sc12, 1984Iw03,  
+192OS3cG 1985DaZX, 1985Ei01, 1986Me07, 1987Me14, 1988Li06, 1992Si25, 1994Mi22,  
+192OS4cG 2000He14.                                                              
+192OS cG           Principal sources of ce data: 1957Ke01 (same data as         
+192OS2cG 1957Ke66; note that the precision of these data appears to have been   
+192OS2cG underestimated), 1960Ma17, 1964Ha06, 1964He19, 1966Sc20, 1968Bo01,     
+192OS3cG 1971HeZA, 1983Ha34.                                                    
+192OS cG           Other |g data (1966-1991): 1966Da13, 1966Ja04,               
+192OS2cG 1967Pa02, 1967Sc23, 1967Sy02, 1968Bo38, 1969Re06, 1970Le03,            
+192OS3cG 1970Ni12, 1970Wi08, 1971Se13, 1973Pr09, 1973Wi10, 1974Ba50, 1974He08,  
+192OS4cG 1974La15, 1975Be19, 1975SiZM, 1977VyZW, 1977VyZX, 1977VyZZ,            
+192OS5cG 1978He21, 1978Ke02, 1980De40, 1980Yo06, 1983Kl06, 1988Cu01.            
+192OS cG           Principal |g|g(|q), ce|g(|q) studies: 1969Gr19, 1969Kh04,    
+192OS2cG 1970Be08, 1974He08, 1974YaZK, 1975Be19, 1987Me14.                      
+192OS cG           Nuclear orientation: 1969Re06, 1970Hi12, 1970Le04,           
+192OS2cG 1971Ki13, 1985Ri07, 1985Ri13.                                          
+192OS cG           |g-ray linear polarization (oriented nuclei):                
+192OS2cG 1985Ri07, 1985Ri13.                                                    
+192OS cG           Unplaced |g rays from {+192}Ir |b{+-} or |e decay are listed 
+192OS2cG with {+192}Ir |b{+-} decay dataset only.                               
+192OS tG                                                                        
+192OS tG ${U Summary of Os x-ray intensities (relative to I({+192}Pt(316|g))=100
+192OS+tG ):}                                                                    
+192OS2tG Energy 1983Sc12 1986Me07  1992Si25  Average   %IX(Exp) %IX(Calc) x-ray 
+192OS3tG ------ -------- --------- --------- --------- -------- --------- ----- 
+192OS4tG  7.8   -        0.040 {I3}   -         0.40 {I3}    0.274 {I21}        
+192OS+tG           XLl                                                          
+192OS5tG  12.0  {I0}.072 {I12} 0.087 {I6}   -         1.100 {I12}  0.911 {I10}  
+192OS+tG         XL|g1                                                          
+192OS6tG  12.5  {I0}.021 {I3}  -         -                                     X
+192OS+tG L|g23                                                                  
+192OS7tG  8.91                                                  1.504 {I16} L| x
+192OS+tG  ray                                                                   
+192OS7tG  63.0  {I2}.40 {I7}   2.46 {I3}    2.39 {I8}    2.444 {I26}  2.023 {I22
+192OS+tG } 2.07 {I3}   K|a{-1}| x ray                                           
+192OS8tG  61.5  {I1}.39 {I5}   1.40 {I2}    1.40 {I4}    1.399 {I22}  1.158 {I18
+192OS+tG } 1.199 {I16} K|a{-2}| x ray                                           
+192OS9tG  71.3  {I0}.82 {I4}   0.80 {I2}    0.82 {I3}    0.808 {I7}   0.669 {I6}
+192OS+tG            K|b{-1}'| x ray                                             
+192OSAtG  73.4  {I0}.222 {I4}  0.203 {I5}   0.210 {I5}   0.210 {I5}   0.174 {I4}
+192OS+tG            K|b{-2}'| x ray                                             
+192OSBtG  71.4                                                  1.504 {I16} K|b|
+192OS+tG  x ray                                                                 
+192OSBtG                                                                        
+192OS tG ${U Summary of relative intensity data for principal lines:}           
+192OS4tG                                                                        
+192OS4tG Reference   110|g      201|g      205|g      283|g      329|g      374|
+192OS+tG g                                                                      
+192OS4tG ---------   -------  --------  -------   -------   -------   -------   
+192OS4tG 1973Ge05    0.0028 le0.551 12  {I3}.86 {I8}    0.320 {I8}   0.019 {I3} 
+192OS+tG   0.875 {I15}                                                          
+192OS4tG 1975Pr03    -        0.56 {I5}    3.90 {I45}   0.39 {I8}x   -         0
+192OS+tG .79 {I3}x                                                              
+192OS4tG 1983Sc12    -        0.566 {I11}  4.02 {I6}    0.326 {I4}   -         0
+192OS+tG .877 {I14}                                                             
+192OS4tG 1984Iw03 s  -        0.57 {I4}    4.01 {I6}    0.304 {I22}  -         0
+192OS+tG .860 {I9}                                                              
+192OS4tG 1985DaZX    -        -         3.982 {I16}  -         -                
+192OS4tG 1985Ei01    0.011 {I4}  0.62 {I2}x   3.93 {I7}    0.317 {I9}   0.023 {I
+192OS+tG 1}   0.87 {I2}                                                         
+192OS4tG 1986Me07    0.016 {I1}  0.578 {I10}  4.22 {I3}x   0.321 {I5}           
+192OS+tG   0.889 {I7}                                                           
+192OS4tG 1987Me14    -        -         -                   0.019 {I1}   -      
+192OS4tG 1988Li06    0.014 {I2}  0.581 {I16}  4.01 {I10}   0.315 {I14}  0.019 {I
+192OS+tG 6}   0.875 {I24}                                                       
+192OS4tG 1992Si15    -        0.57 {I2}    3.98 {I6}    0.303 {I9}   0.033 {I5}x
+192OS+tG   0.888 {I17}                                                          
+192OS4tG 1994Mi22    -        -         4.055 {I22}  -         -                
+192OS4tG Recommended 0.0154 {I9} 0.569 {I6}   4.001 {I12}  0.321 {I3}   0.0209 {
+192OS+tG I7}  0.878 {I5}                                                        
+192OS tG                                                                        
+192OS4tG Reference   420|g y    484|g      489|g y    703|g                     
+192OS4tG ---------   -------  --------  -------   -------                       
+192OS4tG 1973Ge05    0.070 {I6}  3.81 {I5}    0.480 {I10}  0.007 {I2}           
+192OS4tG 1975Pr03    -        4.10 {I21}x  0.36 {I12}x                          
+192OS4tG 1983Sc12    0.092 {I6}  3.86 {I4}    0.537 {I10}                       
+192OS4tG 1984Iw03 s  0.078 {I9}  3.828 {I18}  0.527 {I9}                        
+192OS4tG 1985DaZX             3.867 {I22}                                       
+192OS4tG 1985Ei01    0.078 {I4}  3.62 {I7}x   0.49 {I5}    0.006 {I2}           
+192OS4tG 1986Me07    0.092 {I3}  3.92 {I3}    0.547 {I5}                        
+192OS4tG 1987Me14    -                  -         0.007 {I2}                    
+192OS4tG 1988Li06    0.072 {I8}  3.77 {I8}    0.504 {I13}  0.0062 {I13}         
+192OS4tG 1992Si15    0.072 {I5}  3.82 {I7}    0.516 {I11}  0.006 {I2}           
+192OS4tG 1994Mi22             3.899 {I27}                                       
+192OS4tG Recommended 0.083 {I9}e 3.859 {I11}  0.529 {I18}e 0.0064 {I8}          
+192OS4tG                                                                        
+192OS tG $s data presumed to supersede those from 1980Yo06.                     
+192OS tG $x statistical outlier based on Chauvenet criterion; datum excluded    
+192OS2tG from average.                                                          
+192OS tG $y Data for this |g are discrepant (|h{+2} exceeds critical value),    
+192OS2tG even after elimination of statistical outlier data.                    
+192OS tG $z I|g=0.0043 {I7} reported by 1985Ei01 is presumed by the evaluator   
+192OS2tG to be a misprint of 0.043 {I7}, consistent with branching in |e decay. 
+192OS tG $e weighted average with uncertainty expanded to encompass most precise
+192OS2tG datum.                                                                 
+192OS tG                                                                        
+192OS cG RI        Data from 1994Mi22, 1992Si25, 1988Li06, 1987Me14, 1986Me07,  
+192OS2cG 1985DaZX, 1985Ei01, 1984Iw03, 1983Sc12, 1975Pr03, 1973Ge05 are         
+192OS3cG tabulated above. The recommended values are weighted averages of these 
+192OS4cG data, excluding data given as limits or identified as statistical      
+192OS5cG outliers based on the Chauvenet criterion, except as noted. Note that  
+192OS6cG most data from 1975Pr03 are identified as outliers.                    
+192OS cG M         From |a(K)exp, except where noted. Conversion coefficient    
+192OS2cG values attributed to 1966Sc20 were calculated by the evaluator from    
+192OS3cG I|g given here and Ice from 1966Sc20; the photon and ce intensity      
+192OS4cG scales were normalized assuming |a(K)(E2 theory)=0.0535 for            
+192OSxcG 316.5|g({+192}Pt).                                                     
+192OS cG MR        From |g-ray linear polarization (oriented nuclei) (1985Ri13),
+192OS2cG except where noted. Data of 1985Ri13 supersede those of 1985Ri07.      
+192OS cG E(B)      From 2000He14, based on a revised energy scale               
+192OS3cG that uses the new fundamental constants and wave lengths from an       
+192OS4cG updated value of the Si crystal lattice spacing (1987Co39).            
+192OS5cG 2000He14 fitted the revised |g-ray energies to a level scheme. Their   
+192OS6cG recommended |g-ray energies are from level-energy differences corrected
+192OS7cG for recoil. See 1999He26 for discussion of improvement of {+192}Ir     
+192OS8cG calibration energies by use of a self-calibration procedure.           
+192OS cL E         Deduced by evaluator from a least-squares fit to E|g data.   
+192OS cL J,T       From Adopted Levels.                                         
+192IR  P 0.0         4+                73.829 D  11             1046.3    24    
+192OS DN 17.39                 0.0476   4 21.0084 4000                          
+192OS  N                                                                        
+192OS PN                                                                     3  
+192OS cN NR        from total I(|g+ce)(to {+192}Os g.s.) + total I(|g+ce)(to    
+192OS2cN {+192}Pt g.s.)=100%; direct |b{+-} and |e feedings to the respective   
+192OS3cN ground states are not expected (|DJ=4)). Systematics of log| {Ift}     
+192OS4cN values for |DJ=4, |D|p=no decays suggest a lower limit of about 22.5   
+192OS5cN (1998Si17), implying %I|b(g.s.) and %|e(g.s.) of at most 1|*10{+-11}   
+192OSxcN and 5|*10{+-13}%, respectively.                                        
+192OS  L        0.0   0+               STABLE                                   
+192OS  L  205.79442 9 2+               288 PS    4                              
+192OS cL T         adopted value. T{-1/2}=300 ps {I20} from X|g(t) (1973Ch26).  
+192OS  G 205.79430  9 4.01   6  E2                     0.305  9             B X 
+192OSS G KC=0.1575 22$LC=0.1090 16$MC=0.0274 4$NC+=0.00762 11                   
+192OSS G NC=0.00660 10$OC=0.001000 14$PC=1.483E-5 21                            
+192OS cG M         from ce subshell ratios, |g|g(|q).                           
+192OS2cG |a(K)exp=0.142 {I7}, K/L=1.52 {I5}, (L1+L2)/L3=2.08 {I5} (1966Sc20);   
+192OS3cG L/(L+M+)=1.05 {I4} (1983Ha34); L1:L2:L3=100 {I4}:275 {I3}:183 {I3}     
+192OS4cG (1964He19); L:M:N+=3.85 {I30}:1:0.27 (1968Bo01); M1/M3=0.386 {I35}     
+192OSxcG (1971HeZA).                                                            
+192OS cG           %I|g=3.315 {I19} assuming proposed decay scheme              
+192OSxcG normalization.                                                         
+192OS  L 489.0602   6 2+               32.6 PS   +9-10                          
+192OS  G 283.2668   8 0.321   3 M1+E2    -3.8    7     0.121  6                 
+192OSS G KC=0.080 6$LC=0.0311 6$MC=0.00767 12$NC+=0.00215 4                     
+192OSS G NC=0.00185 3$OC=0.000289 5$PC=8.2E-6 7                                 
+192OS cG E         revision by 1983Sh48 of datum from 1975Bo07. Others:         
+192OS2cG 283.30 {I10} (1966Sc20), 283.255 {I20}(1973Ge05), 283.2 {I3}           
+192OS3cG (1985Ei01), 283.34 (1988Li06, uncertainty 0.03 to 0.3).                
+192OS cG MR        from |g|g(|q) (1975Be19). Other values: -1.6 {I+14-34}       
+192OS2cG (|g|g(|q), 1974YaZK), -6 {I+1-2} (|g|g(|q) and |g linear polarization  
+192OS3cG (oriented nuclei, 1985Ri13), -2.3 {I+7-13} (|g|g(|q), 1987Me14).       
+192OS cG           |a(K)exp=0.080 {I7} (1966Sc20).                              
+192OS  G 489.06     3 0.527   9 E2                     0.0242  7              X 
+192OSS G KC=0.0180 3$LC=0.00463 7$MC=0.001113 16$NC+=0.000315 5                 
+192OSS G NC=0.000269 4$OC=4.35E-5 6$PC=1.91E-6 3                                
+192OS cG E         weighted average of 489.05 {I7} (1966Sc20) and 489.06 {I3}   
+192OS2cG (1973Ge05). Others: 489.06 {I30} (1985Ei01) and 489.05 (1988Li06,      
+192OS3cG uncertainty 0.03 to 0.3).                                              
+192OS cG           |a(K)exp=0.0192 {I21} (1966Sc20).                            
+192OS cG           %I|g=0.438 {I15} assuming proposed decay scheme              
+192OSxcG normalization.                                                         
+192OS  L 580.2800   8 4+               14.7 PS   4                              
+192OS  E                         0.670 11  9.546 10             0.670     11    
+192OSS E CK=0.7772 3$CL=0.16818 22$CM+=0.05463 9                                
+192OS  G 374.4852   8 0.878   5 E2                     0.0484                   
+192OSS G KC=0.0339 5$LC=0.01106 16$MC=0.00270 4$NC+=0.000759 11                 
+192OSS G NC=0.000653 10$OC=0.0001031 15$PC=3.51E-6 5                            
+192OS cG E         revision by 1983Sh48 of datum from 1975Bo07. Others:         
+192OS2cG 374.55 {I14} (1966Sc20), 374.472 {I25}(1973Ge05), 374.4 {I3}           
+192OS3cG (1985Ei01), 374.52 (1988Li06, uncertainty 0.03 to 0.3).                
+192OS cG M         from |a(L)exp and (L1+L2)/L3 subshell ratio.                 
+192OS cG           |a(L)exp=0.0116 {I6}, (L1+L2)/L3=3.8 {I2} (1966Sc20).        
+192OS  L 690.3705   4 3+                                                        
+192OS  E                         3.93  6   8.502 11             3.93      6     
+192OSS E CK=0.7583 6$CL=0.1818 5$CM+=0.05987 16                                 
+192OS cE           K-capture probability for 690.4 level: 0.70 {I6} (1975Da13). 
+192OS  G 110.33    17 0.0154  9 M1+E2    0.52    +22-243.96   20                
+192OSS G KC=2.9 4$LC=0.81 16$MC=0.20 5$NC+=0.055 12                             
+192OSS G NC=0.047 11$OC=0.0076 14$PC=0.00034 5                                  
+192OS cG E         unweighted average of 110.092 {I19} (1969LeZU), 110.67 {I30} 
+192OS2cG (1985Ei01), 110.24 {I30} (1988Li06).                                   
+192OS cG MR        from |a(K)exp.                                               
+192OS cG           |a(K)exp=2.9 {I4} (Ice from 1960Ma17); K:L1:L3=7:|?3:|?2     
+192OS2cG (1964Ha06). Other |a(K)exp: <5.2 (1966Sc20).                           
+192OS  G 201.3112   7 0.569   6 M1+E2    -2.7    3     0.379  14                
+192OSS G KC=0.224 14$LC=0.1175 17$MC=0.0293 5$NC+=0.00817 13                    
+192OSS G NC=0.00706 11$OC=0.001084 16$PC=2.27E-5 17                             
+192OS cG E         revision by 1983Sh48 of datum from 1975Bo07. Others:         
+192OS2cG 201.31 {I7} (1966Sc20), 201.281 {I20}(1973Ge05), 201.4 {I3} (1985Ei01),
+192OS3cG 201.39 (1988Li06, uncertainty 0.03 to 0.3).                            
+192OS cG MR        other values: -4.1 {I+12-23} (|g|g(|q), 1987Me14), -4.6 {I10}
+192OS2cG (|g|g(|q), 1975Be19), -3.6 {I+12-22} (|g|g(|q)), 1974He08); |d{+2}>3.7 
+192OS3cG (|g(|q,t), 1970Hi12); 2.8 {I+7-4} from |a(K)exp.                       
+192OS cG           |a(K)exp=0.222 {I19}, K/L=1.9 {I1}, (L1+L2)/L3=2.33 {I10}    
+192OS2cG (1966Sc20); K/L=1.85 {I4}, L1:L2:L3=100:142 {I6}:89 {I7}               
+192OSxcG (1957Ke01,1957Ke66).                                                   
+192OS  G 484.5751   4 3.859  11 M1+E2    -5.9    2     0.0259               B   
+192OSS G KC=0.0195 3$LC=0.00489 7$MC=0.001174 17$NC+=0.000332 5                 
+192OSS G NC=0.000284 4$OC=4.60E-5 7$PC=2.08E-6 3                                
+192OS cG RI        deduced from total I|g=3.859 {I11} for                       
+192OS2cG 484.6|g+485.3|g({+192}Pt) and I|g(485.3|g)=0.0023 {I5}.                
+192OS cG MR        other data: -6.5 {I4} (|g|g(|q), 1987Me14), -5.8 {I8}        
+192OS2cG (|g(|q,t), 1970Hi12), -10 {I1} (|g|g(|q, 1975Be19), -7.6 {I+11-14}     
+192OS3cG (|g|g(|q), 1974He08), -5.1 {I5} (|g|g(|q), 1974YaZK), -7.6 {I+13-24}   
+192OS4cG (|g|g(|q), 1970Be08), -10.9 {I+15-21} (|g|g(|q), 1969Gr19), -10        
+192OS5cG {I+3-10} (|g|g(|q), 1969Kh04), 7.4 (from |a(K)exp).                    
+192OS cG           |a(K)exp=0.0191 {I7} for doublet dominated by this           
+192OS2cG transition; K/L=3.8 {I3}, (L1+L2)/L3=7.6 {I9} (1966Sc20).              
+192OS  L   909.55   6 4+               9.8 PS    4                              
+192OS  E                         0.094  8  8.97   5                  0.094 8    
+192OSS E CK=0.539 10$CL=0.339 7$CM+=0.123 3                                     
+192OS  G 329.09    15 0.0209  7 M1+E2    -1.51   +13-220.110  8                 
+192OSS G KC=0.083 7$LC=0.0202 6$MC=0.00484 12$NC+=0.00137 4                     
+192OSS G NC=0.00117 3$OC=0.000191 6$PC=9.2E-6 8                                 
+192OS cG E         weighted average of 329.13 {I20} (1973Ge05), 328.8 {I3}      
+192OS2cG (1985Ei01) and 329.3 {I3} (1988Li06).                                  
+192OS cG M         from Adopted Gammas. D+Q from |g|g(|q) (1985Ri13).           
+192OS cG MR        magnitude from {+192}Os Adopted Gammas; sign from |d=-7      
+192OS2cG {I+4-15} from |g|g(|q) and |g-ray linear polarization (oriented nuclei)
+192OS3cG (1985Ri13).                                                            
+192OS  G 420.51     6 0.083   9 (E2)                   0.0354                   
+192OSS G KC=0.0256 4$LC=0.00749 11$MC=0.00182 3$NC+=0.000512 8                  
+192OSS G NC=0.000439 7$OC=7.00E-5 10$PC=2.68E-6 4                               
+192OS cG E         weighted average of 420.50 {I6} (1973Ge05), 420.6 {I3}       
+192OS2cG (1985Ei01) and 420.6 {I3} (1988Li06).                                  
+192OS cG M         from Adopted Gammas.                                         
+192OS  G 703.78    19 0.0064  8 (E2)                   0.01031                  
+192OSS G KC=0.00816 12$LC=0.001651 24$MC=0.000388 6$NC+=0.0001108 16            
+192OSS G NC=9.43E-5 14$OC=1.562E-5 22$PC=8.76E-7 13                             
+192OS cG E         weighted average of 703.7 {I4} (1973Ge05), 703.6 {I3}        
+192OS2cG (1985Ei01) and 704.0 {I3} (1988Li06).                                  
+192OS cG M         from Adopted Gammas.                                         
+                                                                                
+192PT    192IR B- DECAY (73.829 D)                               12NDS    201209
+192PT  H TYP=FUL$AUT=Coral M. Baglin$CIT=NDS 113, 1871 (2012)$CUT=15-Jun-2012$  
+192PT DG CC$ FROM BrIcc v2.2b (20-Jan-2009) 2008Ki07, "Frozen Orbitals" appr.   
+192PT c  This decay has been evaluated independently by                         
+192PT2c  E. Browne (1999BeZQ, 1999BeZS).                                        
+192PT c  See {+192}Ir Adopted Levels for the evaluated half-life of {+192}Ir.   
+192PT c  The total average radiation energy released by {+192}Ir |b{+-} decay is
+192PT2c  1389.0 keV {I12} (calculated by evaluator using the computer program   
+192PT3c  RADLST). This value agrees well with Q|*BR=1390.2 keV {I19} and        
+192PT4c  thus confirms the consistency of the decay scheme.                     
+192PT c  1988Li06: sources from {+191}Ir(n,|g), E=thermal; measured E|g, I|g    
+192PT2c  (Ge(Li), FWHM=2.1 keV at 1332.5 keV; HPGe, FWHM=540 eV at 122 keV),    
+192PT3c  |g|g coin; used absorbers to eliminate sum and pile-up peaks.          
+192PT c  The decay scheme is from 1988Li06.                                     
+192PT cB           |b{+-} feedings are from intensity imbalance at each         
+192PT2cB level (no |b branch to the 0+ g.s. is expected from the 4+ parent).    
+192PT cB E         From 1965Jo04, except where noted. Other E|b, I|b: 1947Le01, 
+192PT2cB 1951Sh84, 1952Ba01, 1954Jo20, 1955Ba01, 1977Ra17.                      
+192PT cG           Principal sources of |g energy and intensity data:           
+192PT2cG 1966Sc20, 1969LeZU, 1973Ge05, 1975Bo07, 1975Pr03, 1983Sc12, 1984Iw03,  
+192PT3cG 1985DaZX, 1985Ei01, 1986Me07, 1987Me14, 1988Li06, 1992Si25, 1994Mi22,  
+192PT4cG 2000He14.                                                              
+192PT cG           Principal sources of ce data: 1957Ke01 (same data as         
+192PT2cG 1957Ke66; note that the precision of these data appears to have been   
+192PT3cG underestimated), 1960Ma17, 1966Sc20, 1967Dr03, 1967Ka04, 1968Bo01,     
+192PT4cG 1968Ni07, 1969Ma14, 1970Wi08, 1971HeZA, 1974Vo13, 1983Ha34.            
+192PT DG           OTHER G DATA (1966-1991): 1966Da13, 1966Ja04, 1967Pa02,      
+192PT2DG 1967Sy02, 1968Bo01, 1968Bo38, 1968Ni07, 1969LeZU, 1970Da28, 1970Gr13,  
+192PT3DG 1970Le03, 1970Ni12, 1970Su08, 1971He20, 1971Se13, 1973Ge05, 1973In03,  
+192PT4DG 1973Pr09, 1974Be26, 1974La15, 1975Bo07, 1977Ra17, 1977VyZW,            
+192PT5DG 1977VyZX, 1977VyZZ, 1978He21, 1978Ke02, 1980De40, 1980Yo06, 1988Cu01.  
+192PT DG           OTHER GG(|q), CEG(|q) (1966-1991): 1966Ag02, 1967Bh09,       
+192PT2DG 1967Ko13, 1967Ku16, 1968Ha46, 1969Ke11, 1972Si39, 1973Ho20, 1973Si12,  
+192PT3DG 1975SiZM.                                                              
+192PT cG           Principal |g|g(|q), ce|g(|q), |g|g|g(|q) studies: 1969Gr19,  
+192PT2cG 1969Kh04, 1969Ma14, 1970Be08, 1970Hi02, 1970Se08, 1971Do12, 1973Al27,  
+192PT3cG 1974He08, 1974SiZC, 1974Vo13, 1974YaZK, 1975MiZM, 1975Pa23, 1987Me14.  
+192PT cG           Nuclear orientation: 1969Re06, 1970Hi12, 1970Si17, 1971Ho35, 
+192PT2cG 1973Ho03, 1983Ri14, 1985Ri07, 1985Ri13, 1988Sc20, 1989Tr16.            
+192PT cG           |g(|q,H,T): 1992Al21, 1992Bo20.                              
+192PT cG           |b|g(|q): 1967Bh09, 1969Ap01, 1970Hi02, 1970Se08, 1974Su07.  
+192PT cG           |b(circularly polarized |g)(|q): 1967Bh09.                   
+192PT cG           |g(linearly polarized |g)(|q): 1968Da26, 1968Ha46.           
+192PT cG           |g-ray linear polarization (oriented nuclei): 1983Ri14,      
+192PT2cG 1985Ri07, 1985Ri13.                                                    
+192PT tG ${U Summary of Pt x-ray intensities (I(x ray) relative to I(316)=100)}.
+192PT2tG                                                                        
+192PT2tG Energy 1983Sc12 1986Me07  1992Si25  Average   %IX(Exp) %IX(Calc) x-ray 
+192PT3tG ------ -------- --------- --------- --------- -------- -------- ------ 
+192PT4tG 8.3   0.415 {I15} 0.32 {I4}    -         0.40 {I3}    0.331 {I25}      
+192PT+tG           Xl                                                           
+192PT5tG ~13    0.085 {I12} 0.110 {I10}  -         1.100 {I12}  0.911 {I10}     
+192PT+tG      XL|g123                                                           
+192PT6tG 9.44                                                  3.98 {I6}   L| x 
+192PT+tG  ray                                                                   
+192PT7tG 65.1  {I5}.25 {I17}  5.39 {I5}    5.58 {I19}   5.39 {I5}    4.47 {I4}  
+192PT+tG  4.54 {I9}   K|a{-1}| x ray                                            
+192PT8tG 66.8  {I3}.09 {I12}  3.10 {I3}    3.08 {I10}   3.10 {I3}    2.569 {I25}
+192PT+tG  2.65 {I6}   K|a{-2}| x ray                                            
+192PT9tG 75.4  {I1}.78 {I6}   1.80 {I2}    1.89 {I7}    1.805 {I18}  1.496 {I15}
+192PT+tG           K|b{-1}'| x ray                                              
+192PTAtG 77.9  {I0}.53 {I4}   0.497 {I10}  0.490 {I18}  0.497 {I13}  0.412 {I11}
+192PT+tG           K|b{-2}'| x ray                                              
+192PTBtG 75.7                                                  1.97 {I4}   K|b| 
+192PT+tG  x ray                                                                 
+192PTCtG                                                                        
+192PT tG           The experimental absolute Pt K-xray intensities agree well   
+192PT2tG with the values calculated by the evaluator using the RADLST code      
+192PT3tG and the nuclear and atomic data presented in this evaluation.          
+192PT4tG The good agreement between these quantities constitutes a test for the 
+192PT5tG self-consistency of the decay scheme.                                  
+192PT tG                                                                        
+192PT tG ${U Summary of relative intensity data for principal lines:}           
+192PT2tG                                                                        
+192PT2tG Reference   136.3|g y  296.0|g    308.4|g    316.5|g    416.5|g y  468.
+192PT+tG 1|g                                                                    
+192PT2tG ---------   -------- --------  -------   -------   -------   -------   
+192PT4tG 1973Ge05    0.218 {I10} 34.64 {I35}  35.77 {I36}  100       0.802 {I15}
+192PT+tG   58.0 {I9}                                                            
+192PT4tG 1975Pr03    0.19 {I6}   35.6 {I13}x  37.1 {I8}x   100       0.89 {I64}x
+192PT+tG   59.27 {I20}x                                                         
+192PT4tG 1983Sc12    0.278 {I24} 34.54 {I36}  35.99 {I36}x 100.0 {I8}   0.806 {I
+192PT+tG 18}  57.61 {I48}                                                       
+192PT4tG 1984Iw03 s  0.35 {I6}   34.69 {I17}  35.87 {I19}  100.0 {I5}   0.797 {I
+192PT+tG 11}  57.76 {I23}                                                       
+192PT4tG 1985DaZX    -        34.65 {I14}  35.89 {I15}  100.0 {I4}   -         5
+192PT+tG 7.8 {I3}                                                               
+192PT4tG 1985Ei01    0.209 {I8}  34.81 {I66}  36.34 {I73}x 100       0.77 {I2}  
+192PT+tG   58.2 {I10}                                                           
+192PT4tG 1986Me07    0.307 {I10} 34.94 {I18}x 35.81 {I20}  100.0 {I5}   0.834 {I
+192PT+tG 8}   57.01 {I41}                                                       
+192PT4tG 1987Me14             -         -         100.0 {I5}   -         -      
+192PT4tG 1988Li06    0.214 {I8}  34.7 {I7}    35.8 {I7}    100       0.807 {I24}
+192PT+tG   57.2 {I12}                                                           
+192PT4tG 1992Si15    0.260 {I8}  34.52 {I60}  35.77 {I62}  100.0 {I10}  0.776 {I
+192PT+tG 15}  57.0 {I10}                                                        
+192PT4tG 1994Mi22    -        34.62 {I16}  35.84 {I16}  100.0 {I4}   -         5
+192PT+tG 7.76 {I24}                                                             
+192PT4tG Recommended 0.24 {I3}e  34.65 {I8}   35.85 {I8}   100.0 {I2}   0.809 {I
+192PT+tG 25}e 57.733 {I23}                                                      
+192PT tG                                                                        
+192PT2tG Reference   588.6|g    593.5|g    604.4|g    612.5|g y  884.5|g y 1061.
+192PT+tG 5|g                                                                    
+192PT2tG ---------   -------  --------  -------   -------   -------   -------   
+192PT4tG 1973Ge05    5.52 {I10}  0.045 {I3}   10.04 {I26}  6.55 {I13}   0.364 {I
+192PT+tG 7}   0.067 {I3}                                                        
+192PT4tG 1975Pr03    5.46 {I20}  0.010 {I3}x  10.9 {I6}x   6.7 {I4}     0.45 {I3
+192PT+tG }x   0.070 {I4}                                                        
+192PT4tG 1983Sc12    5.45 {I5}   0.058 {I5}   9.89 {I7}    6.41 {I5}    0.356 {I
+192PT+tG 8}   0.064 {I4}                                                        
+192PT4tG 1984Iw03 s  5.423 {I21} 0.052 {I3}   9.79 {I4}    6.365 {I25}  0.3435 {
+192PT+tG I24} 0.0633 {I11}                                                      
+192PT4tG 1985DaZX    5.48 {I3}   -         10.00 {I6}   6.54 {I4}    -         -
+192PT4tG 1985Ei01    5.47 {I98}  0.043 {I7}z  10.39 {I18}x 6.77 {I12}   0.366 {I
+192PT+tG 6}   0.063 {I2}                                                        
+192PT4tG 1986Me07    5.56 {I5}   0.052 {I2}   10.10 {I9}   6.61 {I6}    0.360 {I
+192PT+tG 3}   0.067 {I2}                                                        
+192PT4tG 1987Me14    -        -         -         -         -         -         
+192PT4tG 1988Li06    5.36 {I14}  0.046 {I3}   9.77 {I23}   6.34 {I16}   0.347 {I
+192PT+tG 8}   0.063 {I2}                                                        
+192PT4tG 1992Si15    5.40 {I10}  0.059 {I4}   9.87 {I17}   6.25 {I11}   0.346 {I
+192PT+tG 8}   0.062 {I3}                                                        
+192PT4tG 1994Mi22    5.468 {I21} -         9.95 {I4}    6.488 {I28}  -         -
+192PT4tG Recommended 5.458 {I12} 0.0507 {I12} 9.916 {I23}  6.45 {I9}e   0.352 {I
+192PT+tG 8}e  0.0641 {I7}                                                       
+192PT tG                                                                        
+192PT4tG Reference   1089|g     1378|g                                          
+192PT4tG ---------   -------   -------                                          
+192PT4tG 1973Ge05    0.0020 {I7}  0.0015 {I7}                                   
+192PT4tG 1975Pr03    0.0030 {I2}x 0.0020 {I4}                                   
+192PT4tG 1984Iw03 s  0.0010 {I5}  0.0016 {I5}                                   
+192PT4tG 1985Ei01    0.0018 {I5}  0.0010                                        
+192PT4tG 1987Me14    0.0012 {I3}  -                                             
+192PT4tG 1988Li06    0.0012 {I5}  0.0015 {I4}                                   
+192PT4tG 1992Si15    0.0020 {I6}  -                                             
+192PT4tG Recommended 0.0040 {I19} 0.00169 {I23}                                 
+192PT4tG                                                                        
+192PT tG $s data presumed to supersede those from 1980Yo06.                     
+192PT tG $x statistical outlier based on Chauvenet criterion; datum excluded    
+192PT2tG from average.                                                          
+192PT tG $y Data for this |g are discrepant (|h{+2} exceeds critical value),    
+192PT2tG even after elimination of statistical outlier data.                    
+192PT tG $z I|g=0.0043 {I7} reported by 1985Ei01 is presumed by the evaluator   
+192PT2tG to be a misprint of 0.043 {I7}, consistent with branching in |e decay. 
+192PT tG $e weighted average with uncertainty expanded to encompass most precise
+192PT2tG datum.                                                                 
+192PT tG                                                                        
+192PT cG RI        Data from 1994Mi22, 1992Si25, 1988Li06, 1987Me14, 1986Me07,  
+192PT2cG 1985DaZX, 1985Ei01, 1984Iw03, 1983Sc12, 1975Pr03, 1973Ge05 are         
+192PT3cG summarized above. The recommended values are weighted averages of these
+192PT4cG data, excluding data given as a limit, or without an uncertainty or    
+192PT5cG identified as a statistical outlier based on the Chauvenet criterion,  
+192PT6cG except as noted. Note that many values from 1975Pr03 are               
+192PT7cG statistically inconsistent (outliers).                                 
+192PT cG M         From |a(K)exp, except where noted. Conversion coefficients   
+192PT2cG attributed to 1966Sc20 were calculated by the evaluator from I|g given 
+192PT3cG here and Ice from 1966Sc20; the photon and ce intensity                
+192PT4cG scales were normalized assuming |a(K)(E2 theory)=0.0535 for            
+192PT5cG 316.5|g.                                                               
+192PT cG MR        From |g|g(|q) and |g-ray linear polarization (oriented       
+192PT2cG nuclei) (1985Ri13), except where noted.                                
+192PT cG E(A)      Seen in ce spectra only (1966Sc20); transition could         
+192PT2cG alternatively be attributed to {+192}Ir |e decay (73.829 d).           
+192PT cG E(B)      From evaluation by 2000He14, based on a revised energy scale 
+192PT3cG that uses the fundamental constants and wave lengths from an           
+192PT4cG updated value of the Si crystal lattice spacing (1987Co39).            
+192PT5cG 2000He14 fitted the revised |g-ray energies to a level scheme. Their   
+192PT6cG recommended |g-ray energies are from level-energy differences corrected
+192PT7cG for recoil. See 1999He26 for discussion of improvement of {+192}Ir     
+192PT8cG calibration energies by use of a self-calibration procedure.           
+192PT cL E         From least-squares fit to E|g.                               
+192PT cL J,T       From {+192}Pt Adopted Levels.                                
+192IR  P 0.0         4+                73.829 D  11             1454.5    23    
+192PT DN 0.870                 0.9524   4 1.0500  4                             
+192PT  N                                                                        
+192PT PN                                  1.0                                3  
+192PT cN NR$from total I(|g+ce)(to {+192}Pt g.s.) + total I(|g+ce)(to {+192}Os  
+192PT2cN g.s.)=100% (direct |b{+-} and |e feedings to the respective ground     
+192PT3cN states are not expected (|DJ=4)). Systematics of log| {Ift} values for 
+192PT4cN |DJ=4, |D|p=no decays suggest a lower limit of about 22.5 (1998Si17),  
+192PT5cN implying %I|b(g.s.) and %|e(g.s.) of at most 1|*10{+-11} and           
+192PTxcN 5|*10{+-13}%, respectively.                                            
+192PT  G 214.7      5                                                       A   
+192PT  G 314.80    25                                                       A   
+192PT  G 319.32    25                                                       A   
+192PT  G 415.4      5                                                       A   
+192PT  G 739        1                                                       A   
+192PT  L        0.0   0+               STABLE                                   
+192PT  L 316.50646 15 2+               43.7 PS   9                              
+192PT2 L G=0.287 17 (1992Bo20,1992Al21)$                                        
+192PT cL           g-factor: from IMPAC measurement assuming T{-1/2}=44.3 ps.   
+192PT2cL Others: 0.296 {I22} (1970Be08, |g(|q,H,t)).                            
+192PT cL           T{-1/2} data from {+192}Ir |b{+-} decay (73.829 d): 27 ps    
+192PT2cL {I4} (|b|g|g(t), 1962De14), 35 ps {I3} (|g|g(t), 1966Sc06), 34 ps {I5} 
+192PT3cL (|gce(t), 1970Be08), 42.8 ps {I15} (|b|g|g(t), 1973Sm01), 33 ps {I4}   
+192PTxcL (ce-ce(t), 1976Bu20).                                                  
+192PT  G 316.50618 17 100.0  5 E2                      0.085  3             B X 
+192PTS G KC=0.0535 8$LC=0.0232 4$MC=0.00579 9$NC+=0.001655 24                   
+192PTS G NC=0.001418 20$OC=0.000232 4$PC=5.42E-6 8                              
+192PT cG M         from ce subshell ratios, |g|g(|q).                           
+192PT cG           K/L=2.2 {I1}, (L1+L2)/L3=3.15 {I20} (1966Sc20);              
+192PT2cG L/(L+M+)=1.75 {I5} (1983Ha34); L1:L2:L3=1.303 {I13}:1.928 {I15}:1      
+192PT3cG (1967Ka04,1968Ni07); L1:L2:L3=100 {I1}:149 {I1}:75.8 {I9} (1964He19);  
+192PT4cG L:M:N+=4.2 {I4}:1:0.29 (1968Bo01); M1:M2:M3=175 {I9}:285 {I14}:151     
+192PT5cG {I7} (1967Dr03); N1/N3=1.055 {I32} (1971HeZA); O/N=0.149 {I8}          
+192PT6cG (1957Ke01); K/L1=7.58 {I12}, L1:L2:L3=1.28 {I2}:1.90 {I3}:1 (1974Vo13).
+192PT cG           %I|g=82.84 {I12} assuming proposed decay scheme              
+192PTxcG normalization.                                                         
+192PT  L 612.46320 17 2+               26.5 PS   15                             
+192PT2 L G=+0.29 5 (1970Be08)$                                                  
+192PT cL           g-factor: from |g(|q,H,t).                                   
+192PT cL T         from |gce(t) (1973Sm01). Other values:                       
+192PT2cL 24 ps {I13} (cece(t), 1965Bu06),                                       
+192PT3cL 20.1 ps {I21} (|gce(t), 1970Be08), 26.0 ps {I26} (cece(t), 1976Bu20).  
+192PT  G 295.95650 15 34.65   8 M1+E2    +10.0   4     0.1047               B   
+192PTS G KC=0.0651 10$LC=0.0299 5$MC=0.00749 11$NC+=0.00214 3                   
+192PTS G NC=0.00183 3$OC=0.000299 5$PC=6.58E-6 10                               
+192PT cG M         E0 admixture not found (1969Ma14,1971Do12,1973Al27).         
+192PT cG MR$other data: +7.1 {I3} (|g|g(|q), 1987Me14), +10 {I+3-2}             
+192PT2cG (|g|g|g(|q), 1975Pa23), +8.8 {I3} (|g|g(|q), 1974He08), +5.4 {I2}      
+192PT3cG (|gce(|q), 1974Vo13), +7.4 {I2} (|g|g(|q), 1974YaZK), +6 {I+3-1}       
+192PT4cG (|g(|q,t), 1970Hi12), +5.6 {I+15-11} (|gce(|q), 1970Hi02), +9.1        
+192PT5cG {I+17-27} (|g|g(|q), 1969Gr19), +15 {I+10-5} (|g(|q,t), 1969Re06).     
+192PT cG           |a(K)exp=0.0678 {I16}; K/L=2.2 {I2}, (L1+L2)/L3=3.3 {I2}     
+192PT2cG (1966Sc20); M1:M2:M3=215 {I11}:374 {I19}:217 {I15} (1967Dr03);         
+192PT3cG L1/L3=1.307 {I15} (1971HeZA); K/L1=7.32 {I13}, L1:L2:L3=1.32 {I3}:1.91 
+192PT4cG {I3}:1 (1974Vo13); K/L3=8.90 {I5} (1969Ma14); K/M=8.9 {I2}             
+192PTxcG (1957Ke01,1957Ke66).                                                   
+192PT  G 612.46215 26 6.365  25E2                      0.0155 5             B X 
+192PTS G KC=0.01179 17$LC=0.00273 4$MC=0.000655 10$NC+=0.000190 3               
+192PTS G NC=0.0001612 23$OC=2.76E-5 4$PC=1.247E-6 18                            
+192PT cG M         from |a(K)exp and from |g|g(|q), nuclear orientation         
+192PT2cG (1969Re06). |a(K)exp=0.0123 {I54} (1966Sc20); |a(M)exp=5.9|*10{+-4}    
+192PTxcG {I5} (1967Dr03).                                                       
+192PT  L 784.5759   3 4+               4.2 PS    2                              
+192PT cL           T{-1/2} data from {+192}Ir |b{+-} decay                      
+192PT2cL (73.829 d): 11.8 ps {I21} (|b|g(t), 1966Sc06), 5 ps {I4} (cece(t),     
+192PT3cL 1975Aw01), 13 ps {I10} (cece(t), 1976Bu20), 6.0 ps {I17} (|bce(t),     
+192PT4cL 1978Bu02).                                                             
+192PT  B 672        4  47.98  9            8.531  6                             
+192PTS B EAV=208.01 83                                                          
+192PT cB E         other value: 666 keV {I2} (1977Ra17).                        
+192PT cB IB        direct measurement: 46% {I4} (1965Jo04).                     
+192PT  G 468.06885 26 57.733 23 E2                     0.0291               B   
+192PTS G KC=0.0212 3$LC=0.00606 9$MC=0.001479 21$NC+=0.000427 6                 
+192PTS G NC=0.000363 5$OC=6.11E-5 9$PC=2.22E-6 4                                
+192PT cG M         from ce subshell ratios below, and from |g|g(|q), nuclear    
+192PT2cG orientation (1969Re06).                                                
+192PT cG           K/L=3.7 {I3}, (L1+L2)/L3=5.3 {I3} (1966Sc20); K/L1=7.20      
+192PT2cG {I16}, L1:L2:L3=3.10 {I7}:2.33 {I8}:1, |a(K)exp=0.0211 {I8}            
+192PT3cG (1974Vo13); |a(M)exp=1.55|*10{+-3} {I9} (1967Dr03); L:M:N+=4.3         
+192PTxcG {I5}:1:0.3 (1968Bo01).                                                 
+192PT  L 920.91854 21 3+               21.3 PS   21                             
+192PT cL T         from |bce(t) (1978Bu02), assuming                            
+192PT2cL T{-1/2}(612.5 level)=26.5 ps {I15}. Other values:                      
+192PT3cL 26 ps {I4} (cece(t), 1976Bu20), <24 ps (cece(t), 1965Bu06).            
+192PT  B 535        2  41.42 12            8.260  7                             
+192PTS B EAV=160.32 79                                                          
+192PT cB E         from 1977Ra17. Other value: 536 keV {I6} (1965Jo04).         
+192PT cB IB        direct measurement: 41% {I4} (1965Jo04).                     
+192PT  G 136.39     3 0.24    3 M1+E2    +3.5    +39-161.53   19                
+192PTS G KC=0.6 3$LC=0.73 6$MC=0.187 16$NC+=0.053 5                             
+192PTS G NC=0.046 4$OC=0.0072 6$PC=6.E-5 3                                      
+192PT cG E         weighted average of 136.38 {I10} (1966Sc20), 136.39 {I4}     
+192PT2cG (1973Ge05), 136.36 {I30} (1988Li06).                                   
+192PT cG MR    $others: 2.0 {I3} (from |a(K)exp=0.80 {I8}), 3.7 {I3} (from      
+192PT2cG K/L), 1.65 {I7} (from L1/L3), 1.53 {I5} (from L1/L2).                  
+192PT cG           |a(K)exp=0.74 {I11} (1966Sc20); |a(K)exp=0.80 {I8}; K/L=0.75 
+192PT2cG {I3} (1960Ma17); L1:L2:L3=100:210 {I10}:170 {I10} (1957Ke01,1957Ke66); 
+192PT3cG (L1+L2)/L3=1.7 {I2} (1966Sc20).                                        
+192PT  G 308.45507 17 35.85   8 M1+E2    +7.20   3     0.0943               B   
+192PTS G KC=0.0603 9$LC=0.0257 4$MC=0.00642 9$NC+=0.00184 3                     
+192PTS G NC=0.001574 22$OC=0.000258 4$PC=6.15E-6 9                              
+192PT cG MR$other data: +6.9 {I5} (|g|g(|q), 1987Me14), +8.1 {I+14-10}          
+192PT2cG (|g|g(|q), 1974He08), +8.0 {I6} (|g|g(|q), 1974YaZK),                  
+192PT3cG +7.1 {I6} (|g(|q,t), 1970Hi12), +6.3 {I+6-5} (|g|g(|q), 1970Be08),     
+192PT4cG +9.9 {I10} (|g|g(|q), 1969Gr19), +8 {I2} (|g|g(|q), 1969Kh04), +7.3    
+192PT5cG {I2} (|g(|q,t), 1969Re06), 6.5 {I+10-7} from |a(K)exp in 1974Vo13.     
+192PT cG           |a(K)exp=0.0627 {I16}, K/L=2.2 {I1}, (L1+L2)/L3=3.13 {I20}   
+192PT2cG (1966Sc20); M1:M2:M3=100:169 {I5}:87 {I4} (1957Ke01,1957Ke66);         
+192PT3cG L1/L3=1.396 {I18} (1971HeZA); |a(K)exp=0.0611 {I10}, K/L1=7.25 {I17},  
+192PTxcG L1:L2:L3=1.30 {I5}:1.86 {I6}:1 (1974Vo13).                             
+192PT  G 604.41105 25 9.916  23 M1+E2    -1.48   2     0.0258               B   
+192PTS G KC=0.0207 4$LC=0.00392 6$MC=0.000921 14$NC+=0.000269 4                 
+192PTS G NC=0.000227 4$OC=3.99E-5 6$PC=2.26E-6 4                                
+192PT cG MR        other data: -1.2 {I1} (|g|g(|q), 1987Me14), -1.90 {I9}       
+192PT2cG (|g|g(|q), 1974He08), -1.2 {I1} (|g|g(|q), 1974YaZK),                  
+192PT3cG -2.5 {I2} (|g|g(|q), 1970Be08), -3.0 {I+9-12} (|gce(|q), 1970Se08),    
+192PT4cG -2.0 {I2} (|g|g(|q), 1969Gr19), -1.5 {I1} (|g(|q,t), 1970Hi12), -3.3   
+192PT5cG {I+4-7} (|gce(|q), 1970Hi02), -1.5 {I1} (|g(|q,t), 1969Re06), 1.40     
+192PTxcG {I8} (from |a(K)exp).                                                  
+192PT cG           |a(K)exp=0.0213 {I6} (1966Sc20); K/L=4.7 {I1}                
+192PT2cG (1957Ke01,1957Ke66); K/L1=6.6 {I3}, L1:L2:L3=11.5 {I15}:3.4 {I4}:1     
+192PTxcG (1974Vo13).                                                            
+192PT  L  1201.0452 5 4+                                                        
+192PT  B 240       15    5.60 3            8.077 13                             
+192PTS B EAV=70.01 70                                                           
+192PT cB IB        direct measurement: 8% {I2} (1965Jo04).                      
+192PT  G 280.27    24 0.010   5 M1(+E2)  5.4     LE    0.25   12                
+192PT cG E         unweighted average of 280.03 {I5} (1969LeZU) and 280.51 {I15}
+192PT2cG (1988Li06); other: 280 {I1} (1966Sc20).                                
+192PT cG RI        based on I|g=0.0099 {I6} (1988Li06) and I|g<0.005 (1985Ei01).
+192PT2cG Other I|g: 0.030 {I2} (1986Me07).                                      
+192PTS G KC=0.19 12$LC=0.043 7$MC=0.0104 11$NC+=0.0030 4                        
+192PTS G NC=0.0026 3$OC=0.00044 7$PC=2.1E-5 14                                  
+192PT cG MR        from |a(K)exp.                                               
+192PT cG           |a(K)exp=0.32 {I23} (1966Sc20).                              
+192PT  G 416.4688  7  0.809  25 M1+E2    +2.9    10    0.049  10            B   
+192PTS G KC=0.036 9$LC=0.0097 9$MC=0.00236 20$NC+=0.00068 6                     
+192PTS G NC=0.00058 5$OC=9.8E-5 10$PC=3.8E-6 10                                 
+192PT cG MR        from |g|g(|q) (1987Me14). Other values: +11 {I+5-2}          
+192PT2cG (|g|g(|q) and |g linear polarization (oriented nuclei), 1985Ri13), +7  
+192PT3cG {I+4-3} (|g|g(|q), 1974He08), +3.1 {I14} (|g|g(|q), 1974YaZK), -4 -7+3 
+192PT4cG (|g(|q,t), 1970Hi12), 3.9 {I+7-14} from |a(K)exp. |d from (L1+L2)/L3   
+192PT5cG is consistent with pure E2.                                            
+192PT cG           |a(K)exp=0.0324 {I22}, K/L=3.7 {I5}, (L1+L2)/L3=4.7 {I5}     
+192PTxcG (1966Sc20).                                                            
+192PT  G 588.5810  7  5.458  12 E2                     0.01682              B   
+192PTS G KC=0.01282 18$LC=0.00305 5$MC=0.000734 11$NC+=0.000213 3               
+192PTS G NC=0.000181 3$OC=3.09E-5 5$PC=1.356E-6 19                              
+192PT cG M         from |g|g(|q), nuclear orientation (1969Re06) and |a(K)exp;  
+192PT2cG <6% M3 admixture (|g|g(|q), 1974SiZC).                                 
+192PT cG           |a(K)exp=0.0135 {I10} (1974Vo13), 0.014 {I4}(1966Sc20);      
+192PT2cG K/L=3.8 {I5} (1970Wi08).                                               
+192PT  G 884.5365  7  0.352   8 E2                                          B   
+192PTS G CC=0.00700 10$KC=0.00561 8$LC=0.001062 15$MC=0.000250 4$NC+=7.29E-5 11 
+192PTS G NC=6.15E-5 9$OC=1.077E-5 15$PC=5.93E-7 9                               
+192PT cG M         <0.04% M3 admixture (|g|g(|q), 1974SiZC).                    
+192PT cG           |a(K)exp=0.00593 {I21}, K/L=5.2 {I4} (1966Sc20).             
+192PT  L  1378.03   3 3-               41 PS      9                             
+192PT  B              0.1026 17            8.20   5                             
+192PTS B EAV=19.72 62                                                           
+192PT  G 176.98    4  0.0052 12 [E1]                    0.0954                  
+192PT cG E         from 1969LeZU. Other: 177.01 (1988Li06, uncertainty 0.03     
+192PT2cG to 0.3).                                                               
+192PT2cG (1988Li06).                                                            
+192PT cG RI        weighted average of 0.0048 {I15} (1988Li06) and 0.006 {I2}   
+192PT2cG (1985Ei01).                                                            
+192PTS G KC=0.0781 11$LC=0.01329 19$MC=0.00307 5$NC+=0.000886 13                
+192PTS G NC=0.000750 11$OC=0.0001291 18$PC=6.70E-6 10                           
+192PT  G 593.63    19 0.0507 12 E1+M2    -0.07   2                              
+192PTS G CC=0.0064 5$KC=0.0054 4$LC=0.00084 7$MC=0.000192 16$NC+=5.6E-5 5       
+192PTS G NC=4.7E-5 4$OC=8.4E-6 7$PC=5.3E-7 5                                    
+192PT cG E         unweighted average of 593.38 {I5}                            
+192PT2cG (1973Ge05), 594.0 {I3} (1985Ei01), 593.5 {I3} (1988Li06).              
+192PT cG M         from Adopted Gammas.                                         
+192PT  G 765.8     3  0.0016  7 E1+M2    0.20    +10-12                         
+192PTS G CC=0.006 3$KC=0.0049 23$LC=0.0008 5$MC=0.00019 10$NC+=5.E-5 3          
+192PTS G NC=4.6E-5 25$OC=8.E-6 5$PC=5.E-7 3                                     
+192PT cG E,RI      from 1988Li06.                                               
+192PT cG MR        from |a(K)exp.                                               
+192PT cG           |a(K)exp=0.0049 {I22} (1966Sc20).                            
+192PT  G 1061.49   4  0.0641  7 E1(+M2)  +0.04   +5-3                           
+192PTS G CC=0.00194 17$KC=0.00163 14$LC=0.000240 24$MC=5.5E-5 6$NC+=1.60E-5 17  
+192PTS G NC=1.35E-5 14$OC=2.41E-6 25$PC=1.61E-7 17                              
+192PT cG E         weighted average of 1062.0 {I4} (1966Sc20), 1061.48 {I4}     
+192PT2cG (1973Ge05), 1061.6 {I5} (1985Ei01), 1061.46 {I30} (1988Li06).          
+192PT cG MR        other value: <0.055 (|g|g(|q), 1975MiZM).                    
+192PT cG           |a(K)exp=0.00200 {I9}, K/L=6.6 {I4} (1966Sc20).              
+192PT  G 1378.50   24 0.0016923 (E3)                                            
+192PTS G CC=0.00613 9$KC=0.00486 7$LC=0.000957 14$MC=0.000226 4$NC+=7.90E-5 11  
+192PTS G NC=5.59E-5 8$OC=9.82E-6 14$PC=5.54E-7 8$IPC=1.272E-5 18                
+192PT cG E         unweighted average of 1379.0 {I5} (1966Sc20), 1378.0 {I5}    
+192PT2cG (1973Ge05), 1378.8 {I10} (1985Ei01), 1378.2 {I3} (1988Li06) (weighted  
+192PT3cG average is 1378.35 {I22}).                                             
+192PT cG M         K/L implies E3, but |a(K)exp favors E2 over E3.              
+192PT cG           |a(K)exp=0.0027 {I4}, K/L=5.2 {I4} (1966Sc20).               
+192PT  L  1383.99  15 (5)-                                                      
+192PT  B              0.0039 17            9.51  20                             
+192PTS B EAV=18.13 62                                                           
+192PT  G 599.41    15 0.0047 20 E1                                              
+192PT cG E,RI      from 1988Li06.                                               
+192PTS G CC=0.00567 8$KC=0.00474 7$LC=0.000720 10$MC=0.0001646 23$NC+=4.81E-5 7 
+192PTS G NC=4.05E-5 6$OC=7.19E-6 10$PC=4.56E-7 7                                
+192PT cG M         from Adopted Gammas.                                         
+192PT  L  1406.37   6 3+                                                        
+192PT  B               0.0059 5            8.83   8                             
+192PTS B EAV=12.25 60                                                           
+192PT  G 485.45     6 0.0057  5                                                 
+192PT cG           Placed by evaluator; transition not resolved from            
+192PT2cG 484.6|g (in {+192}Os), but known from {+192}Au |e decay and            
+192PT3cG (particle,xn|g) reactions.                                             
+192PT cG E         from Adopted Gammas.                                         
+192PT cG RI        deduced from I(1090|g) here and I(485|g):I(1090|g)=100       
+192PT2cG {I8}:24.6 {I23} from Adopted Gammas.                                   
+192PT  G 1089.96   260.00140 19 M1+E2    1.8     +14-6                          
+192PTS G CC=0.0060 11$KC=0.0049 9$LC=0.00083 13$MC=0.00019 3$NC+=5.6E-5 9       
+192PTS G NC=4.7E-5 7$OC=8.4E-6 13$PC=5.3E-7 10                                  
+192PT cG E         weighted average of 1090.5 {I4} (1966Sc20), 1089.9 {I8}      
+192PT2cG (1973Ge05), 1090.3 {I5} (1985Ei01), 1089.55 {I30} (1988Li06).          
+192PT cG MR        from |a(K)exp.                                               
+192PT cG           |a(K)exp=0.0049 {I7}, K/L=6.4 {I5} (1966Sc20).               
+                                                                                 

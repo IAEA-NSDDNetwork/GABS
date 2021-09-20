@@ -1,0 +1,31 @@
+  * * * * * * GABS Version 12 [27-Mar-2019] Report file  * * * * * * 
+  Current date: 13:38:53 27-Mar-2019
+  ENSDF input file: 80Br_B-EC-gabs.in
+  Calculating new normalization factor * * * * *
+  New ENSDF file:   80Br_B-EC-gabs.new
+ 
+  Data set: 80BR EC DECAY (17.68 M)
+ 
+  Transitions used for normalization:
+     80SE  G 665.8     2  16.1   13                                              CX
+ 
+  Data set: 80BR B- DECAY (17.68 M)
+ 
+  Transitions used for normalization:
+     80KR  G  616.3    5  100                                                    CX
+     80KR  G 1256.2    4    1.1  1                                                X
+ 
+  Normalization: 80BR EC DECAY (17.68 M)  NR= 5.770   BR= 0.137 10
+    E= 677.0     10 %IG=0.102 35 per 100 dis.
+    E= 687.4     10 %IG=0.15  4 per 100 dis.
+    E=665.8      2  %IG=13.7 10 per 100 dis. Compare with 13.7 15
+    E= 788       3  %IG=0.09  9 per 100 dis.
+    E= 812.2     15 %IG=0.51 17 per 100 dis.
+ 
+                 80BR B- DECAY (17.68 M)  NR= 0.148   BR= 0.863 10
+    E= 677.0     10 %IG=0.102 34 per 100 dis.
+    E= 687.4     10 %IG=0.15  4 per 100 dis.
+    E= 616.3     5  %IG=85.3  9 per 100 dis. Compare with 85.3 13
+    E= 639.4     2  %IG=3.33 26 per 100 dis.
+    E=1256.2     4  %IG=0.94  9 per 100 dis. Compare with 0.94  9
+    E= 703.8     2  %IG=2.47 34 per 100 dis.

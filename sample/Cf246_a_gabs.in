@@ -1,0 +1,55 @@
+242CM    246CF A DECAY                                           02NDS    200206
+242CM  H TYP=FUL$AUT=Y.A. AKOVALI$CIT=NDS 96, 177 (2002)$CUT=1-Sep-2001$        
+246CF  P 0.0         0+                35.7 H    5              6861.6    10    
+242CM DN 1.0                   1.0                                              
+242CM  N                       1.0                                              
+242CM2 N IGS=79.3 10                                                            
+242CM c  Q(|a)({+246}Cf)=6861.6 {I10} (1995Au04); T{-1/2}({+246}Cf)=35.7 h      
+242CM2c  {I5}, measured by 1951Hu39, %|a({+246}Cf)=100.00,                      
+242CM3c  %SF({+246}Cf)=0.00025 {I4} and %|e<0.004 were adopted in 1998Ar12.     
+242CM cA IA        Alpha intensity per 100 |a decays, measured by 1977Ba69,     
+242CM2cA except where noted. Other measurements: 1955Hu31, 1963Fr04.            
+242CM cA E         Measurement of 1977Ba69. The original energies are           
+242CM2cA decreased by 0.2 keV because of a change in calibration energy: the    
+242CM3cA authors used E|a({+252}Cf)=6118.3 {I5}; 6118.10 {I4} was recommended by
+242CM4cA 1991Ry01. Other measurements: 1955Hu31, 1963Fr04, 1996Ma72.            
+242CM5cA The measurements of 1996Ma72 are given for each |a group for           
+242CM6cA comparison; the energy resolution was about 20 keV at 7.14 MeV.        
+242CM cG E         Measurements of 1956Ch77 (|a|g-scin) and 1955Pe57            
+242CMxcG (|a|g-scin).                                                           
+242CM cG RI        Photon intensity per 100 |a decays, measured by 1956Ch77     
+242CM2cG and 1955Pe57.                                                          
+242CM  L 0.0         0+                162.8 D   2                              
+242CM  A 6750.0    10 79.3   10 1.0                                             
+242CM cA           E|a=6758 was measured by 1996Ma72.                           
+242CM  L 42.13     5  2+                                                        
+242CM  A 6708.2    10 20.6   10 2.54                                            
+242CM cA           E|a=6719 was measured by 1996Ma72.                           
+242CM DG 42        3  0.014     E2                        1170                X 
+242CM  G 42        3  0.014     E2                     1.2E+3 5               X 
+242CMS G LC=853 $ MC=239                                                        
+242CM cG           Intensity balance at 42.13-keV level gives I|g(42|g)=0.018.  
+242CM cG M         deduced in {+242}Am |b{+-} decay.                            
+242CM cG           E|g=42.13 {I5} from {+242}Am |b{+-} decay.                   
+242CM  L 137       2 4+                                                         
+242CM  A 6615.6    10 0.15   2  130                                             
+242CM cA           E|a=6726 was measured by 1996Ma72.                           
+#242CM  G 96        3  0.012     [E2]                     23.18                  
+242CM  G 96        3  0.012     [E2]                   2.3E+1 4
+242CMS G LC=16.63 $ MC=4.70 $ NC+=1.85                                          
+242CM cG           Intensity balance at 137-keV level gives |a(96|g)=12.8.      
+242CM  L 288       6  6+                                                        
+242CM  A 6467      7  0.016  AP 270    AP                                       
+242CM cA E         |a was seen by 1963Fr04 in |a|g coincidence data. The        
+242CM2cA original energy of 6465 {I5}, listed in 1963Fr04, was calibrated to    
+242CM3cA E|a(to g.s.)=6753. These E|a's give E(level)=293; on the other hand,   
+242CM4cA the measured E|g=147 {I5} to 137-keV level gives E(level)=284 {I6}. An 
+242CM5cA unweighted average of these two energies, E(level)=288 {I6} is adopted,
+242CM6cA and E|a=6467 {I7} is calculated from the level energy of 288 {I6} and  
+242CM7cA E|a(to g.s.)=6750.0 {I10}.                                             
+242CM cA IA        deduced from intensity balance at 288-keV level. No I|a      
+242CM2cA was given by 1963Fr04.                                                 
+242CM DG 147       5  0.0035    [E2]                      3.48                  
+242CM  G 147       5  0.0035    [E2]                   3.4    3   
+242CMS G KC=0.175 $ LC=2.37 $ MC=0.670 $ NC+=0.348                              
+                                                                                 

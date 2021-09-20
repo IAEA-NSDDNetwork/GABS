@@ -1,0 +1,30 @@
+  * * * * * * GABS Version 12 [08-May-2019] Report file  * * * * * * 
+  Current date: 23:06:03 08-May-2019
+  ENSDF input file: Ag108_ec_gabs2.in
+  * * * GABS Version 12 [08-May-2019] Report file  * * *
+  Calculating %RI using NR and BR from the ENSDF input file  * * * *
+ 
+  Current date: 23:06:03 08-May-2019
+  ENSDF input file: Ag108_ec_gabs2.in
+ 
+  Data set: 108AG EC DECAY (2.382 M)
+  Normalization:    NR=0.173
+                    BR=0.0290(30)
+               N=NR*BR=0.0050(5)
+  E=433.96     5%IG=    0.50( 5)
+  E=497.1      2%IG=  0.0023( 6)
+  E=931.12    20%IG= 0.00055( 8)
+  E=618.86     5%IG=   0.263(30)
+  E=383.2     10%IG= 0.00090(32)
+  E=880.26    10%IG=  0.0032( 4)
+  E=388.6      4%IG=  0.0019( 6)
+  E=510.1      2%IG=  0.0035( 4)
+  E=1007.22    6%IG=  0.0140(16)
+  E=1441.14   10%IG=  0.0031( 4)
+  E=1106.00    7%IG= 0.00166(23)
+  E=1540.0     2%IG= 0.00105(15)
+ 
+  Data set: 108AG B- DECAY (2.382 M)
+  Normalization:    NR=0.00517
+                    BR=0.9710(30)
+               N=NR*BR=0.005020(16)
