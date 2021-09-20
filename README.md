@@ -1,4 +1,4 @@
-<b>New version</b> 
+<b>GABS new version</b> 
 <br>
 Gamma-ray absolute intensity and normalization calculation.
 <br>
