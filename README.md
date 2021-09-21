@@ -2,7 +2,7 @@
 <br>
 Gamma-ray absolute intensity and normalization calculation.
 <br>
-Please report problems and suggestion to Tibor.Kibedi@anu.edu.au
+Please report problems and suggestions to Tibor.Kibedi@anu.edu.au
 
 
 <b>2021-06</b>
