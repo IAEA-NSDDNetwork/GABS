@@ -1,7 +1,7 @@
 # GABS new version
 Gamma-ray absolute intensity and normalization calculation. GABS is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
-Created by: Tibor.Kibedi@anu.edu.au
+Mantained by: Tibor.Kibedi@anu.edu.au
 
 
 ## Change history
@@ -29,4 +29,4 @@ Created by: Tibor.Kibedi@anu.edu.au
 
   The syntax to use in the [F] mode is simply ```gabs -f myensdf.ens```.
  
-  For further information see the  <a href="https://nds.iaea.org/nsdd/NSDD2019/Presentations/2019_NSDD_GABS_Kibedi.pdf"> NSDD 2019 presentation on GABS</a>. 
+  For further information see the  [NSDD 2019 presentation on GABS](https://nds.iaea.org/nsdd/NSDD2019/Presentations/2019_NSDD_GABS_Kibedi.pdf)
