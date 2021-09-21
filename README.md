@@ -22,11 +22,11 @@ Created by: Tibor.Kibedi@anu.edu.au
 #### 2019-09
 * Release of *GABS new version*. The new version of GABS was presented at the last NSDD meeting in Vienna. 
 
-* The new code has three operation modes: 
+  The new code has three operation modes: 
   - **[F]** - `NR` and `BR` will be obtained from a fit (using G`s marked with "X")<br>
   - **[C]** - Calculate `TI` using `NR` and `BR` from the N-record in the input file<br>
   - **[M]** - Mark transitions going to the g.s. by "X" (DRI>0) & "Y" (DRI blank)<br>
 
-* The syntax to use in the [F] mode is simply `gabs -f myensdf.ens`. 
+  The syntax to use in the [F] mode is simply ```gabs -f myensdf.ens```.
  
-For further information see the NSDD 2019 presentation on GABS. 
+  For further information see the NSDD 2019 presentation on GABS. 
