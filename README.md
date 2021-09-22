@@ -29,4 +29,10 @@ Mantained by: Tibor.Kibedi@anu.edu.au
 
   The syntax to use in the [F] mode is simply ```gabs -f myensdf.ens```.
  
-  For further information see the  [NSDD 2019 presentation on GABS](https://nds.iaea.org/nsdd/NSDD2019/Presentations/2019_NSDD_GABS_Kibedi.pdf)
+  For further information see the  [NSDD 2019 presentation on GABS](https://nds.iaea.org/nsdd/NSDD2019/Presentations/2019_NSDD_GABS_Kibedi.pdf).
+
+## Disclaimer
+
+Neither the author nor anybody else makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness or usefulness of any information disclosed, or represents that its use would not infringe privately owned rights.
+
+
