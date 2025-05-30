@@ -10,7 +10,7 @@ This program originally was written in FORTRAN 77, for a  VAX-11/8600 computer w
 
 GABS is part of the [ENSDF Analysis and Utility Programs](https://nds.iaea.org/public/ensdf_pgm/).
 
-Address any feedback to the Brookhaven National Nuclear Data Center  NNDC@BNL.GOV
+Address any feedback to Tibor Kibedi at Tibor.Kibedi@anu.edu
 
 ## Change history
 
